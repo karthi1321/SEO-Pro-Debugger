@@ -201,10 +201,7 @@ This privacy policy complies with:
 3. We don't send anything to servers
 4. Everything happens locally
 5. You're in complete control
-6. The code is open source
-
-**Questions?** Contact us at support@centilio.com
-
+ 
 ---
 
 **Copyright © 2025 Centilio Software**

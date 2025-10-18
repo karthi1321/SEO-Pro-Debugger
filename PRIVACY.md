@@ -151,16 +151,7 @@ This extension does not knowingly collect any information from children under 13
 
 ---
 
-## Open Source
-
-SEO Pro Debugger is **open source software**. You can review the source code to verify our privacy practices:
-
-🔗 **GitHub Repository:** [github.com/[your-repo]/seo-pro-debugger](#)
-
-We encourage security researchers and privacy advocates to audit our code.
-
----
-
+ 
 ## Changes to This Privacy Policy
 
 We may update this privacy policy from time to time. Changes will be noted in the "Last Updated" date at the top of this document.

@@ -190,18 +190,8 @@ Alternatively, you can clear extension storage:
 2. Go to "Manage Extension"
 3. Click "Clear storage"
 
----
-
-## Contact Us
-
-If you have questions about this privacy policy or our privacy practices:
-
-📧 **Email:** support@centilio.com
-🌐 **Website:** https://centilio.com
-🐛 **Issues:** [GitHub Issues](https://github.com/[your-repo]/seo-pro-debugger/issues)
-
----
-
+ 
+ 
 ## Legal Compliance
 
 This privacy policy complies with:
